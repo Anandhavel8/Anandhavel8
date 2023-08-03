@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Anandhavel8
 - 👀 I’m interested in Backend Development.
-- 🌱 I’m currently learning PHP in Senchola university as a Intern.
+- 🌱 I’m currently in Senchola university as a PHP Developer Intern.
 - 📫 Mail id: anandhavelsaravanan@gmail.com
 
 <!---
