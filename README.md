@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Anandhavel8
 - 👀 I’m interested in Backend Development.
+- 📖 I'm currently pursuing the MCA program at Gandhigram Rural Institute.
 - 🌱 I’m currently in Senchola university as a PHP Developer Intern.
 - 📫 Mail id: anandhavelsaravanan@gmail.com
 
